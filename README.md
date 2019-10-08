@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-{% link test.md %}
+[Link](test.md)
 
 You can use the [editor on GitHub](https://github.com/lukeeffenberger/IANNWTF-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
