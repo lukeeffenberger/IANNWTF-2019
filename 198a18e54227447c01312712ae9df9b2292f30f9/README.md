@@ -16,7 +16,7 @@ On this page you will find all relevant information and resources for the course
 
 
 
-eee
+[session01](/lectures/session01.pdf)
 
 
 
