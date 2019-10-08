@@ -8,11 +8,11 @@ On this page you will find all relevant information and resources for the course
 
 | Week | Topic | Lecture | Homework |
 |------|------------|-----------|----------|
-| 29.01. - 04.11.| Perceptron, MLP | [session01.pdf](/lectures/session01.pdf) | [session01.pdf](/lectures/session01.pdf) |
-|23.01.-22.01.|Perceptron|blabl|blabla|
-| 23.01.-22.01.|Perceptron|blabl|blabla|
-|23.01.-22.01.|Perceptron|blabl|blabla|
-|23.01.-22.01.|Perceptron|blabl|blabla|
+| 29.01. - 04.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | [homework01.ipynb](/lectures/session01.pdf) |
+| 05.11. - 11.11.| Perceptron, MLP | not available | not available |
+| 29.01. - 04.11.|Perceptron|blabl|blabla|
+| 29.01. - 04.11.|Perceptron|blabl|blabla|
+| 29.01. - 04.11.|Perceptron|blabl|blabla|
 
 
 
