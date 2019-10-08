@@ -2,7 +2,7 @@
 
 | Week | Topic | Lecture | Homework |
 |:------:|:------------:|:-----------:|:----------:|
-| 29.01. - 04.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | [homework01.ipynb](/lectures/session01.pdf) |
+| 29.01. -04.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | [homework01.ipynb](/lectures/session01.pdf) |
 | 05.11. - 11.11.| Perceptron, MLP | not available | not available |
 | 12.11. - 18.11.| Backpropagation | not available | not available |
 | 19.11. - 25.11.| TensorFlow | not available | not available |
