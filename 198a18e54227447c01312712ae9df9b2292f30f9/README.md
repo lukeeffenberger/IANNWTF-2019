@@ -7,7 +7,7 @@ On this page you will find all relevant information and resources for the course
 
 
 | Week | Topic | Lecture | Homework |
-|----------|------------|-----------|----------|
+|------|------------|-----------|----------|
 |23.01.-22.01.|Perceptron|blabl|blabla|
 |23.01.-22.01.|Perceptron|blabl|blabla|
 | 23.01.-22.01.|Perceptron|blabl|blabla|
