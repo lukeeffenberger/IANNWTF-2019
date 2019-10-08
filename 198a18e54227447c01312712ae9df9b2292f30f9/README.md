@@ -1,22 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome
 
-[Link](test.md)
+Welcome to the course page of course 8.3304 "Implementing ANNs with TensorFlow".
+On this page you will find all relevant information and resources for the course.
+
+### Timeline
 
 
-You can use the [editor on GitHub](https://github.com/lukeeffenberger/IANNWTF-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+| Week | Topic | Lecture | Homework |
+|----------|------------|-----------|----------|
+|23.01.-22.01.|Perceptron|blabl|blabla|
+|23.01.-22.01.|Perceptron|blabl|blabla|
+| 23.01.-22.01.|Perceptron|blabl|blabla|
+|23.01.-22.01.|Perceptron|blabl|blabla|
+|23.01.-22.01.|Perceptron|blabl|blabla|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
