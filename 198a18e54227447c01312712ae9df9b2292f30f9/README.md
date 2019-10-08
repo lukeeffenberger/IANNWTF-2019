@@ -1,6 +1,3 @@
-Welcome to the course page of course 8.3304 "Implementing ANNs with TensorFlow".
-On this page you will find all relevant information and resources for the course.
-
 ### Timeline
 
 | Week | Topic | Lecture | Homework |
