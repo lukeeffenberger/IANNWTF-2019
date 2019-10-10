@@ -20,7 +20,7 @@
 | TBA | Deadline Final Project | - | - |
 
 ### Recordings
-The recordings of the lecture are only available via Stud.IP/
+The recordings of the lecture are only available via Stud.IP.
 
 ### Homework
 
