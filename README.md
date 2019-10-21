@@ -1,6 +1,6 @@
 ### Timeline
 
-| Week | Topic | Lecture | Homework | Submission Deadline |
+| Date | Topic | Lecture | Homework | Submission Deadline |
 |:------:|:------------:|:-----------:|:----------:|:-------:|
 | 29.01. - 05.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | n.a. | n.a. |
 | 05.11. - 12.11.| Perceptron, MLP | n.a. | n.a. | n.a. |
@@ -17,8 +17,8 @@
 | 28.01. - 04.02.| TBA | n.a. | n.a. | n.a. |
 | 04.02. - 11.02.| TBA | n.a. | n.a. | n.a. |
 | 11.02. - 14.02.| TBA | n.a. | n.a. | n.a. |
-| 14.02. | Deadline Fix Topic for Final Project | - | - | n.a. |
-| 30.03. | Deadline Final Project | - | - | n.a. |
+| 14.02. | Deadline Fix Topic for Final Project | - | - | - |
+| 30.03. | Deadline Final Project | - | - | - |
 
 ### Recordings
 The lecture is recorded weekly. These recordings are only available via Stud.IP.
