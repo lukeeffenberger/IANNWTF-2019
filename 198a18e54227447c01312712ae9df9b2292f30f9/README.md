@@ -2,23 +2,23 @@
 
 | Week | Topic | Lecture | Homework | Submission Deadline |
 |:------:|:------------:|:-----------:|:----------:|:-------:|
-| 29.01. - 05.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | n.a. |  |
-| 05.11. - 12.11.| Perceptron, MLP | n.a. | n.a. | |
-| 12.11. - 19.11.| Backpropagation | n.a. | n.a. | |
-| 19.11. - 26.11.| TensorFlow | n.a. | n.a. | |
-| 26.11. - 03.12.| More on Deep Neural Networks | n.a. | n.a. | |
-| 03.12. - 10.12.| Convolutional Neural Networks | n.a. | n.a. | |
-| 10.12. - 16.12.| Training DNNs | n.a. | n.a. | |
-| TBA | Midterm Exam | - | - | |
-| 18.12. - 07.01.| Christmas Break | - | - | |
-| 07.01. - 14.01.| TBA | n.a. | n.a. | |
-| 14.01. - 21.01.| TBA | n.a. | n.a. | |
-| 21.01. - 28.01.| TBA | n.a. | n.a. | |
-| 28.01. - 04.02.| TBA | n.a. | n.a. | |
-| 04.02. - 11.02.| TBA | n.a. | n.a. | |
-| 11.02. - 14.02.| TBA | n.a. | n.a. | |
-| 14.02. | Deadline Fic Topic for Final Project | - | - | |
-| 30.03. | Deadline Final Project | - | - | |
+| 29.01. - 05.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | n.a. | n.a. |
+| 05.11. - 12.11.| Perceptron, MLP | n.a. | n.a. | n.a. |
+| 12.11. - 19.11.| Backpropagation | n.a. | n.a. | n.a. |
+| 19.11. - 26.11.| TensorFlow | n.a. | n.a. | n.a. |
+| 26.11. - 03.12.| More on Deep Neural Networks | n.a. | n.a. | n.a.|
+| 03.12. - 10.12.| Convolutional Neural Networks | n.a. | n.a. | n.a.|
+| 10.12. - 16.12.| Training DNNs | n.a. | n.a. | n.a. |
+| TBA | Midterm Exam | - | - | - |
+| 18.12. - 07.01.| Christmas Break | - | - | - |
+| 07.01. - 14.01.| TBA | n.a. | n.a. | n.a. |
+| 14.01. - 21.01.| TBA | n.a. | n.a. | n.a.|
+| 21.01. - 28.01.| TBA | n.a. | n.a. | n.a.|
+| 28.01. - 04.02.| TBA | n.a. | n.a. | n.a. |
+| 04.02. - 11.02.| TBA | n.a. | n.a. | n.a. |
+| 11.02. - 14.02.| TBA | n.a. | n.a. | n.a. |
+| 14.02. | Deadline Fix Topic for Final Project | - | - | n.a. |
+| 30.03. | Deadline Final Project | - | - | n.a. |
 
 ### Recordings
 The lecture is recorded weekly. These recordings are only available via Stud.IP.
@@ -42,12 +42,7 @@ In this case we expect you to include a statement explaining your problems and y
 
 **fail** - *You did not submit anything or you did not finish the homework, but did not put in enough effort for the* **not done** *rating*.
 
-**Homework submission**   
-You can submit your homework via Colab (link) or via Stud.IP. 
-
-Colab submission instructionsl: link.
-
-Stud.IP submission instructions: Submit your homework to your group folder following the naming convention: `G{group_number}_H{homework_number}_{rating}.ipynb` where rating is O, D, ND or F. (e.g. `G01_H01_ND.ipynb`).
+**Homework submission** - You can submit your homework via Colab (link) or via Stud.IP. Colab submission instructions: link. Stud.IP submission instructions: Submit your homework to your group folder following the naming convention: `G{group_number}_H{homework_number}_{rating}.ipynb` where rating is O, D, ND or F. (e.g. `G01_H01_ND.ipynb`).
 
 **Cheating** - Please be honest. If we have to downgrade the rating, you will get an Email in which we will explain what was missing. However if you constantly or clearly give the wrong rating you will get a **Fail**. Further if you submit a homework as 
 **Done** that is not running you will get a **Fail** and we will substract one **Outstanding**. 
@@ -60,5 +55,5 @@ The midterm exam will cover all contents of the first seven sessions. You won't 
 In the final project you will choose a publication or a task for which you will implement an artificial neural network in TensorFlow. Additionally you will write a blog-post that explains your project. If you re-implement a publication you roughly explain the theoretical background. If you solve a task you explain how you went about solving it. In both cases you explain your implementation. (more infos follow)
 
 ### Contact
-In case of general or organizational issues contact me (`leffenberger@uos.de`).  
-In case of content questions contact Sahar (`sniknam@uos.de`) or Leon (`lschmid@uos.de`).
+In case of general or organizational issues contact me: `leffenberger@uos.de`.  
+In case of content questions contact Sahar or Leon: `sniknam@uos.de`, `lschmid@uos.de`.
