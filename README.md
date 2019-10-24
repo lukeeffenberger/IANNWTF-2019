@@ -1,3 +1,11 @@
+### Sessions
+**Lecture**: Tuesday, 16:15-17:45 in 32/110  
+**Homework Tutorial**: Wednesday, 12:15-13:45 in 35/E01
+**Open Homework Q&A Session**: TBA
+
+### Credits
+This course gives **8 ECTS**. For that you have to pass 8 homeworks, pass the **midterm exam** and submit a **final project** at the end of the semester.
+
 ### Timeline
 
 | Date | Topic | Lecture | Homework | Submission Deadline |
@@ -48,13 +56,15 @@ where rating is O, D, ND or F. (e.g. `G01_H01_ND.ipynb`).
 **Cheating** - Please be honest. If we have to downgrade the rating, you will get an Email in which we will explain what was missing. However if you constantly or clearly give the wrong rating you will get a **Fail**. Further if you submit a homework as 
 **Done** that is not running you will get a **Fail** and we will substract one **Outstanding**. 
 
-
 ### Midterm Exam
 The midterm exam will cover all contents of the first seven sessions. You won't have to code although there might be simple questions about code in the exam. The exam should be easily doable if you follow the course (that is visiting the lectures and doing the homework).
 
 ### Final Project
-In the final project you will choose a publication or a task for which you will implement an artificial neural network in TensorFlow. Additionally you will write a blog-post that explains your project. If you re-implement a publication you roughly explain the theoretical background. If you solve a task you explain how you went about solving it. In both cases you explain your implementation. (more infos follow)
+In the final project you will choose a publication or a task for which you will implement an artificial neural network in TensorFlow. Additionally you will write a blog-post that explains your project. If you re-implement a publication you roughly explain the theoretical background. If you solve a task you explain how you went about solving it. In both cases you explain your implementation. Check the [proposal list](/info-sheets/final-topics-proposals.pdf) for possible topics. This list will be constantly updated. (more infos follow)
 
 ### Contact
 In case of general or organizational issues contact me: `leffenberger@uos.de`.  
 In case of content questions contact Sahar or Leon: `sniknam@uos.de`, `lschmid@uos.de`.
+
+### Acknowledgement
+I would like to thank Lukas Braun, who when he was a Bachelor student at the University of Osnabrueck, designed the outlines of this course.
