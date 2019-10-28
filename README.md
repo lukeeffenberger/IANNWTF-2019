@@ -1,7 +1,7 @@
 ### Sessions
 **Lecture**: Tuesday, 16:15-17:45 in 32/110  
 **Homework Tutorial**: Wednesday, 12:15-13:45 in 35/E01   
-**Open Homework Q&A Session**: TBA
+**Open Homework Q&A Session**: Friday, 14.15-15.45 in 35/E16
 
 ### Credits
 This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass the **midterm exam** and submit a **final project** at the end of the semester.
