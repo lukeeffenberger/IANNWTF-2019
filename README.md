@@ -8,30 +8,32 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 
 ### Timeline
 
-| Date | Topic | Lecture | Homework | Submission Deadline |
+| Date | Topic | Lecture | Homework |
 |:------:|:------------:|:-----------:|:----------:|:-------:|
-| 29.01. - 05.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | n.a. | n.a. |
-| 05.11. - 12.11.| Perceptron, MLP | n.a. | n.a. | n.a. |
-| 12.11. - 19.11.| Backpropagation | n.a. | n.a. | n.a. |
+| 29.01. - 05.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | n.a. |
+| 05.11. - 12.11.| Perceptron, MLP | n.a. | n.a. |
+| 12.11. - 19.11.| Backpropagation | n.a. | n.a. |
 | 19.11. - 26.11.| TensorFlow | n.a. | n.a. | n.a. |
-| 26.11. - 03.12.| More on Deep Neural Networks | n.a. | n.a. | n.a.|
-| 03.12. - 10.12.| Convolutional Neural Networks | n.a. | n.a. | n.a.|
-| 10.12. - 16.12.| Training DNNs | n.a. | n.a. | n.a. |
-| TBA | Midterm Exam | - | - | - |
-| 18.12. - 07.01.| Christmas Break | - | - | - |
-| 07.01. - 14.01.| TBA | n.a. | n.a. | n.a. |
-| 14.01. - 21.01.| TBA | n.a. | n.a. | n.a.|
-| 21.01. - 28.01.| TBA | n.a. | n.a. | n.a.|
-| 28.01. - 04.02.| TBA | n.a. | n.a. | n.a. |
-| 04.02. - 11.02.| TBA | n.a. | n.a. | n.a. |
-| 11.02. - 14.02.| TBA | n.a. | n.a. | n.a. |
-| 14.02. | Deadline Fix Topic for Final Project | - | - | - |
-| 30.03. | Deadline Final Project | - | - | - |
+| 26.11. - 03.12.| More on Deep Neural Networks | n.a. | n.a. |
+| 03.12. - 10.12.| Convolutional Neural Networks | n.a. | n.a. |
+| 10.12. - 16.12.| Training DNNs | n.a. | n.a. |
+| TBA | Midterm Exam | - | - |
+| 18.12. - 07.01.| Christmas Break | - | - |
+| 07.01. - 14.01.| TBA | n.a. | n.a. |
+| 14.01. - 21.01.| TBA | n.a. | n.a. |
+| 21.01. - 28.01.| TBA | n.a. | n.a. |
+| 28.01. - 04.02.| TBA | n.a. | n.a. |
+| 04.02. - 11.02.| TBA | n.a. | n.a. |
+| 11.02. - 14.02.| TBA | n.a. | n.a. |
+| 14.02. | Deadline Fix Topic for Final Project | - | - |
+| 30.03. | Deadline Final Project | - | - |
 
 ### Recordings
 The lecture is recorded weekly. These recordings are only available via Stud.IP.
 
 ### Homework
+The homework will be published on Tuesdays after the lecture. The submission deadline is Tuesdays 14.00.
+
 You have to pass 8 out of 10-12 homeworks. There are four posssible ratings: **outstanding**, **done**, **not done**, **fail**. All ratings, but **fail**, are a pass!   
 
 When you submit your homework you have to rate your homework yourself. Each rating has a different meaning and a different consequence.
