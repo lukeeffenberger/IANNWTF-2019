@@ -10,7 +10,7 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 
 | Date | Topic | Lecture | Homework |
 |:------:|:------------:|:-----------:|:----------:|:-------:|
-| 29.01. - 05.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | n.a. |
+| 29.01. - 05.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | [homework01.pdf](/homework/homework01.pdf) |
 | 05.11. - 12.11.| Perceptron, MLP | n.a. | n.a. |
 | 12.11. - 19.11.| Backpropagation | n.a. | n.a. |
 | 19.11. - 26.11.| TensorFlow | n.a. | n.a. |
