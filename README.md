@@ -52,7 +52,7 @@ In this case we expect you to include a statement explaining your problems and y
 
 **fail** - *You did not submit anything or you did not finish the homework, but did not put in enough effort for the* **not done** *rating*.
 
-**Homework submission** - You can submit your homework via Colab (link) or via Stud.IP. Colab submission instructions: link. Stud.IP submission instructions: Submit your homework to your group folder following the naming convention: `G{group_number}_H{homework_number}_{rating}.ipynb`   
+**Homework submission** - You can submit your homework via Colab or via Stud.IP. Colab submission instructions: [colab-intro.pdf](/info-sheets/colab-intro.pdf) . Stud.IP submission instructions: Submit your homework to your group folder following the naming convention: `G{group_number}_H{homework_number}_{rating}.ipynb`   
 where rating is O, D, ND or F. (e.g. `G01_H01_ND.ipynb`).
 
 **Cheating** - Please be honest. If we have to downgrade the rating, you will get an Email in which we will explain what was missing. However if you constantly or clearly give the wrong rating you will get a **Fail**. Further if you submit a homework as 
