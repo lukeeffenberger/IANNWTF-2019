@@ -1,4 +1,4 @@
-### Sessions
+### Sessions 
 **Lecture**: Tuesday, 16:15-17:45 in 32/110  
 **Homework Tutorial**: Wednesday, 12:15-13:45 in 35/E01   
 **Open Homework Q&A Session**: Friday, 14.15-15.45 in 35/E16
