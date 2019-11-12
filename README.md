@@ -12,7 +12,7 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 |:------:|:------------:|:-----------:|:----------:|:-------:|
 | 29.01. - 05.11.| Introduction | [session01.pdf](/lectures/session01.pdf) | [homework01.pdf](/homework/homework01.pdf) |
 | 05.11. - 12.11.| Perceptron, MLP | [session02.pdf](/lectures/session02.pdf) | [homework02.ipynb](/homework/homework02.ipynb) |
-| 12.11. - 19.11.| Backpropagation | n.a. | n.a. |
+| 12.11. - 19.11.| Backpropagation | [session03.pdf](/lectures/session03.pdf) | n.a. |
 | 19.11. - 26.11.| TensorFlow | n.a. | n.a. |
 | 26.11. - 03.12.| More on Deep Neural Networks | n.a. | n.a. |
 | 03.12. - 10.12.| Convolutional Neural Networks | n.a. | n.a. |
