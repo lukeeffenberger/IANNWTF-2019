@@ -14,7 +14,7 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 | 05.11. - 12.11.| Perceptron, MLP | [session02.pdf](/lectures/session02.pdf) | [homework02.ipynb](/homework/homework02.ipynb)  | [homework02-solution.ipynb](/homework-solutions/homework02-solution.ipynb) |
 | 12.11. - 19.11.| Backpropagation | [session03.pdf](/lectures/session03.pdf) | [homework03.ipynb](/homework/homework03.ipynb) | [homework03-solution.ipynb](/homework-solutions/homework03-solution.ipynb) |
 | 19.11. - 26.11.| TensorFlow | [session04.pdf](/lectures/session04.pdf) [session04.ipynb](/lectures/session04.ipynb) |[ homework04.ipynb](/homework/homework04.ipynb) | n.a. |
-| 26.11. - 03.12.| More on Deep Neural Networks | n.a. | n.a. | n.a. |
+| 26.11. - 03.12.| More on Deep Neural Networks | [session05.pdf](/lectures/session05.pdf) | n.a. | n.a. |
 | 03.12. - 10.12.| Convolutional Neural Networks | n.a. | n.a. | n.a. |
 | 10.12. - 16.12.| Training DNNs | n.a. | n.a. | n.a. |
 | TBA | Midterm Exam | - | - | - |
@@ -27,6 +27,7 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 | 11.02. - 14.02.| TBA | n.a. | n.a. | n.a. |
 | 14.02. | Deadline Fix Topic for Final Project | - | - | - |
 | 30.03. | Deadline Final Project | - | - | - |
+   
 
 ### Recordings
 The lecture is recorded weekly. These recordings are only available via Stud.IP.
