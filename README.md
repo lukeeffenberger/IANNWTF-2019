@@ -39,7 +39,7 @@ You have to pass 8 out of 10-12 homeworks. There are four posssible ratings: **o
 
 When you submit your homework you have to rate your homework yourself. Each rating has a different meaning and a different consequence.
 
-**outstanding** - *Your homework runs perfectly and you have put effort into making the code beautiful and readable. Other students would benefit from reading your code.*    
+**outstanding** - *Your homework runs perfectly and you have put effort into making the code beautiful and readable. Other students would benefit from reading your code.* ([more info](/info-sheets/outstanding.pdf))   
 
 We will check this. If we approve you get +0.05 on your final grade and we will publish the homework such that others can have a look at it.
 
