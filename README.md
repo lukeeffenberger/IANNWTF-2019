@@ -16,7 +16,7 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 | 19.11. - 26.11.| TensorFlow | [session04.pdf](/lectures/session04.pdf) [session04.ipynb](/lectures/session04.ipynb) |[ homework04.ipynb](/homework/homework04.ipynb) | [homework04-solution.ipynb](/homework-solutions/homework04-solution.ipynb) |
 | 26.11. - 03.12.| More on Deep Neural Networks | [session05.pdf](/lectures/session05.pdf) | [homework05.ipynb](/homework/homework05.ipynb) | [homework05-solution.ipynb](/homework-solutions/homework05-solution.ipynb) |
 | 03.12. - 10.12.| Convolutional Neural Networks | [session06.pdf](/lectures/session06.pdf) |[homework06.ipynb](/homework/homework06.ipynb) | n.a. |
-| 10.12. - 16.12.| Training DNNs | n.a. | n.a. | n.a. |
+| 10.12. - 16.12.| Training DNNs | [session07.pdf](/lectures/session07.pdf) | n.a. | n.a. |
 | TBA | Midterm Exam | - | - | - |
 | 18.12. - 07.01.| Christmas Break | - | - | - |
 | 07.01. - 14.01.| TBA | n.a. | n.a. |  n.a. |
