@@ -15,16 +15,16 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 | 12.11. - 19.11.| Backpropagation | [session03.pdf](/lectures/session03.pdf) | [homework03.ipynb](/homework/homework03.ipynb) | [homework03-solution.ipynb](/homework-solutions/homework03-solution.ipynb) |
 | 19.11. - 26.11.| TensorFlow | [session04.pdf](/lectures/session04.pdf) [session04.ipynb](/lectures/session04.ipynb) |[ homework04.ipynb](/homework/homework04.ipynb) | [homework04-solution.ipynb](/homework-solutions/homework04-solution.ipynb) |
 | 26.11. - 03.12.| More on Deep Neural Networks | [session05.pdf](/lectures/session05.pdf) | [homework05.ipynb](/homework/homework05.ipynb) | [homework05-solution.ipynb](/homework-solutions/homework05-solution.ipynb) |
-| 03.12. - 10.12.| Convolutional Neural Networks | [session06.pdf](/lectures/session06.pdf) |[homework06.ipynb](/homework/homework06.ipynb) | n.a. |
-| 10.12. - 16.12.| Training DNNs | [session07.pdf](/lectures/session07.pdf) | n.a. | n.a. |
+| 03.12. - 10.12.| Convolutional Neural Networks | [session06.pdf](/lectures/session06.pdf) |[homework06.ipynb](/homework/homework06.ipynb) | [homework06-solution.ipynb](/homework-solutions/homework06-solution.ipynb) |
+| 10.12. - 16.12.| Training DNNs | [session07.pdf](/lectures/session07.pdf) | [homework07.ipynb](/homework/homework07.ipynb) | n.a. |
 | TBA | Midterm Exam | - | - | - |
 | 18.12. - 07.01.| Christmas Break | - | - | - |
-| 07.01. - 14.01.| TBA | n.a. | n.a. |  n.a. |
-| 14.01. - 21.01.| TBA | n.a. | n.a. | n.a. |
-| 21.01. - 28.01.| TBA | n.a. | n.a. | n.a. |
-| 28.01. - 04.02.| TBA | n.a. | n.a. | n.a. |
-| 04.02. - 11.02.| TBA | n.a. | n.a. | n.a. |
-| 11.02. - 14.02.| TBA | n.a. | n.a. | n.a. |
+| 07.01. - 14.01.| Recurrent Neural Networks | n.a. | n.a. |  n.a. |
+| 14.01. - 21.01.| Word Embeddings | n.a. | n.a. | n.a. |
+| 21.01. - 28.01.| Generative Models | n.a. | n.a. | n.a. |
+| 28.01. - 04.02.| Advanced CNNs + Visualization| n.a. | n.a. | n.a. |
+| 04.02. - 11.02.| Deep Reinforcement Learning | n.a. | n.a. | n.a. |
+| 11.02. - 14.02.| Practical Aspects | n.a. | n.a. | n.a. |
 | 14.02. | Deadline Fix Topic for Final Project | - | - | - |
 | 30.03. | Deadline Final Project | - | - | - |
    
