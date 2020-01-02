@@ -19,10 +19,10 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 | 10.12. - 16.12.| Training DNNs | [session07.pdf](/lectures/session07.pdf) | [homework07.ipynb](/homework/homework07.ipynb) | n.a. |
 | TBA | Midterm Exam | - | - | - |
 | 18.12. - 07.01.| Christmas Break | - | - | - |
-| 07.01. - 14.01.| Recurrent Neural Networks | n.a. | n.a. |  n.a. |
-| 14.01. - 21.01.| Word Embeddings | n.a. | n.a. | n.a. |
-| 21.01. - 28.01.| Generative Models | n.a. | n.a. | n.a. |
-| 28.01. - 04.02.| Advanced CNNs + Visualization| n.a. | n.a. | n.a. |
+| 07.01. - 14.01.| Advanced CNNs + Visualization | n.a. | n.a. |  n.a. |
+| 14.01. - 21.01.| Recurrent Neural Networks | n.a. | n.a. | n.a. |
+| 21.01. - 28.01.| Word Embeddings | n.a. | n.a. | n.a. |
+| 28.01. - 04.02.| Generative Models| n.a. | n.a. | n.a. |
 | 04.02. - 11.02.| Deep Reinforcement Learning | n.a. | n.a. | n.a. |
 | 11.02. - 14.02.| Practical Aspects | n.a. | n.a. | n.a. |
 | 14.02. | Deadline Fix Topic for Final Project | - | - | - |
