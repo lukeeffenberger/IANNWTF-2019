@@ -21,7 +21,7 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 | 18.12. - 07.01.| Christmas Break | - | - | - |
 | 07.01. - 14.01.| Advanced CNNs + Visualization | [session08.pdf](/lectures/session08.pdf) | [homework08.ipynb](/homework/homework08.ipynb)|  [homework08-solution.ipynb](/homework-solutions/homework08-solution.ipynb) |
 | 14.01. - 21.01.| Recurrent Neural Networks | [session09.pdf](/lectures/session09.pdf) | [homework09.ipynb](/homework/homework09.ipynb) | n.a. |
-| 21.01. - 28.01.| Word Embeddings | n.a. | n.a. | n.a. |
+| 21.01. - 28.01.| Word Embeddings | [session10.pdf](/lectures/session10.pdf) | n.a. | n.a. |
 | 28.01. - 04.02.| Generative Models| n.a. | n.a. | n.a. |
 | 04.02. - 11.02.| Deep Reinforcement Learning | n.a. | n.a. | n.a. |
 | 11.02. - 14.02.| Practical Aspects | n.a. | n.a. | n.a. |
