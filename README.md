@@ -24,7 +24,7 @@ This course gives **8 ECTS**. For that you have to pass **8 homeworks**, pass th
 | 21.01. - 28.01.| Word Embeddings | [session10.pdf](/lectures/session10.pdf) | [homework10.ipynb](/homework/homework10.ipynb) | [homework10-solution.ipynb](/homework-solutions/homework10-solution.ipynb) |
 | 28.01. - 04.02.| Generative Models| [session11.pdf](/lectures/session11.pdf) |[homework11.ipynb](/homework/homework11.ipynb) | [homework11-solution.ipynb](/homework-solutions/homework11-solution.ipynb) |
 | 04.02. - 11.02.| Deep Reinforcement Learning | only on Stud.IP | [homework12.ipynb](/homework/homework12.ipynb) | n.a. |
-| 11.02. - 14.02.| Practical Aspects | n.a. | n.a. | n.a. |
+| 11.02. - 14.02.| Practical Aspects |[session13.pdf](/lectures/session13.pdf) | n.a. | n.a. |
 | 14.02. | Deadline Fix Topic for Final Project | - | - | - |
 | 30.03. | Deadline Final Project | - | - | - |
    
